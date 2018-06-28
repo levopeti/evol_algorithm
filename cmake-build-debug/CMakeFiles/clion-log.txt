@@ -1,0 +1,4 @@
+/home/biot/clion-2018.1.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/biot/projects/szakdolgozat/Evolutionary_algorithm
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/biot/projects/szakdolgozat/Evolutionary_algorithm/cmake-build-debug
